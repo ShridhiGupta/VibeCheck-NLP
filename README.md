@@ -1,5 +1,3 @@
----
-
 ```markdown
 # VibeCheck-NLP 💬🧠
 
