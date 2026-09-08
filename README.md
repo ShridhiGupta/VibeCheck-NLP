@@ -1,8 +1,8 @@
-# 💬 VibeCheck-NLP
+# VibeCheck-NLP
 
 VibeCheck-NLP is a Natural Language Processing (NLP) project focused on sentiment analysis. The system analyzes textual data and predicts whether the sentiment expressed is positive, negative, or neutral using machine learning techniques.
 
-## 🚀 Features
+## Features
 
 * Sentiment classification of text data
 * Text preprocessing and cleaning
@@ -11,7 +11,7 @@ VibeCheck-NLP is a Natural Language Processing (NLP) project focused on sentimen
 * Model evaluation and performance analysis
 * Easy-to-use Python implementation
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python
 * Scikit-learn
@@ -20,7 +20,7 @@ VibeCheck-NLP is a Natural Language Processing (NLP) project focused on sentimen
 * Matplotlib
 * NLP Techniques
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 VibeCheck-NLP/
@@ -30,7 +30,7 @@ VibeCheck-NLP/
 └── README.md
 ```
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository:
 
@@ -45,7 +45,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-## ▶️ Running the Project
+## Running the Project
 
 Execute the application:
 
@@ -53,7 +53,7 @@ Execute the application:
 python sentiment_app.py
 ```
 
-## 🧠 Workflow
+## Workflow
 
 1. Load and preprocess text data.
 2. Clean and tokenize text.
@@ -62,7 +62,7 @@ python sentiment_app.py
 5. Predict sentiment for new text inputs.
 6. Evaluate model performance using classification metrics.
 
-## 📊 Example
+## Example
 
 **Input:**
 
@@ -88,7 +88,7 @@ The experience was disappointing and frustrating.
 Negative Sentiment
 ```
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 * Natural Language Processing fundamentals
 * Text preprocessing techniques
@@ -97,7 +97,7 @@ Negative Sentiment
 * Sentiment Analysis implementation
 * Model evaluation and interpretation
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Support for deep learning models
 * Real-time sentiment analysis
@@ -106,10 +106,6 @@ Negative Sentiment
 * Emotion detection beyond sentiment
 * Model deployment on cloud platforms
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, improvements, and suggestions are welcome.
-
-## 📄 License
-
-MIT License
