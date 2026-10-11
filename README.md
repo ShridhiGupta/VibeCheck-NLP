@@ -1,4 +1,4 @@
-# VibeCheckNLP
+# VibeCheck NLP
 
 VibeCheck-NLP is a Natural Language Processing (NLP) project focused on sentiment analysis. The system analyzes textual data and predicts whether the sentiment expressed is positive, negative, or neutral using machine learning techniques.
 
