@@ -105,6 +105,3 @@ Negative Sentiment
 * Multi-language sentiment classification
 * Emotion detection beyond sentiment
 * Model deployment on cloud platforms
-
-## Contributing
-
