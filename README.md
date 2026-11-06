@@ -108,4 +108,3 @@ Negative Sentiment
 
 ## Contributing
 
-Contributions, improvements, and suggestions are welcome.
